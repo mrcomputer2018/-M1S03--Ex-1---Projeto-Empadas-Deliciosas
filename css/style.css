@@ -2,6 +2,8 @@ body {
     background: #f5f5f5;
 }
 
+
+/** Header **/
 header {
     background: #FFB74D;
 }
@@ -11,6 +13,14 @@ header h1 {
     letter-spacing: 1px;
 }
 
+
+/** Navbar **/
 nav a {
     color: #FF9304 !important;
+}
+
+
+/** Card **/
+.card {
+    background: #ffff;
 }
