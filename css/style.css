@@ -24,3 +24,8 @@ nav a {
 .card {
     background: #ffff;
 }
+
+.card h2, 
+.card h3 {
+    color: #FF9304;
+}
