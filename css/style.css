@@ -1,7 +1,16 @@
+body {
+    background: #f5f5f5;
+}
+
 header {
     background: #FFB74D;
 }
 
 header h1 {
     color: #FF9304;
+    letter-spacing: 1px;
+}
+
+nav a {
+    color: #FF9304 !important;
 }
