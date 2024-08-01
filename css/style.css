@@ -47,3 +47,16 @@ nav a.active {
 .card h3 {
     color: #FF9304;
 }
+
+
+/** Table **/
+.image-center {
+    display: flex;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.thead-orange-light {
+    background: #FFB74D !important;
+    color: #fff !important;
+}
