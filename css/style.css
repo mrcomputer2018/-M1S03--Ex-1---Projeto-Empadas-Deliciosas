@@ -11,6 +11,10 @@ body {
     max-width: 60rem;
 }
 
+.mb-3rem {
+    margin-bottom: 3rem;
+}
+
 
 /** Header **/
 header {
@@ -52,8 +56,7 @@ nav a.active {
 /** Table **/
 .image-center {
     display: flex;
-    margin-left: auto;
-    margin-right: auto;
+    justify-content: center;
 }
 
 .thead-orange-light {
